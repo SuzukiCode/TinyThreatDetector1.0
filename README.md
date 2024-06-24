@@ -1,6 +1,8 @@
 # TinyThreatDetector1.0
 A C\C++ Program that calls yara32 to scan a file based on .yar rules.
 
+For Windows only.
+
 1. Download the executable.
 2. Download yara32
 3. Place yara32 in Windows\System32\
